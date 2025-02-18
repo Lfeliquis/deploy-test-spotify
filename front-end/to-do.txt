@@ -1,0 +1,5 @@
+- Construir a API;
+- Conexao com o banco de dados;
+- Conectar o Front com o Back;
+- Logicas de Player
+- GitHub e Deploy.
